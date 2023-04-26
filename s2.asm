@@ -14466,10 +14466,10 @@ byte_BCD9:	creditText 0,"LOCKY  P"
 
 ; intro text
 vram_src := ArtTile_ArtNem_CreditText
-byte_BCE9:	creditText   0,"IN"
+byte_BCE9:	creditText   0,"PRESENT  "
 byte_BCEE:	creditText   0,"AND"
-byte_BCF6:	creditText   0,"MILES 'TAILS' PROWER"
-byte_BD1A:	creditText   0,"SONIC"
+byte_BCF6:	creditText   0,"            DAWID"
+byte_BD1A:	creditText   0,"SANCHI"
 
  charset ; revert character set
 
